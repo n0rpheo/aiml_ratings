@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c1d03154-0fd3-4380-b219-870e7703a2be" name="ssh://norpheo@localhost:22/home/norpheo/anaconda3/envs/thesis/bin/python">
+        <fileTransfer host="localhost" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

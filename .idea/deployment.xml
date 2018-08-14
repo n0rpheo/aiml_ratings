@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh://norpheo@localhost:22/home/norpheo/anaconda3/envs/thesis/bin/python" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ssh://norpheo@localhost:22/home/norpheo/anaconda3/envs/thesis/bin/python">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/norpheo/Daten/Masterarbeit/python_server/aiml_ratings" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/media/norpheo/Daten/Masterarbeit/python_server/aiml_ratings/data" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
