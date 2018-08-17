@@ -15,4 +15,4 @@ with open("../../data/external/csratings.csv") as csratings_file:
             match_affs.add(row['affiliation'])
 
 print(str(match_affs))
-
+print()
